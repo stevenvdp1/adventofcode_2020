@@ -4,8 +4,6 @@ data.forEach((e, index) => {
     data[index] = parseInt(e)
 })
 
-
-
 const getNumberPair = (numbers, totalSum) => {
     let pair = []
     for (let i = 0; i < numbers.length; i++) {
@@ -29,7 +27,6 @@ const getNumberTriple = (numbers, totalSum) => {
     }
     return triple
 }
-
 
 const numberPair = getNumberPair(data, 2020)
 console.log('part1: ', numberPair[0] * numberPair[1])
