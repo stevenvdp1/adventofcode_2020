@@ -1,7 +1,6 @@
 const fs = require('fs')
 const data = fs.readFileSync('./day5/input.txt').toString().split('\r\n')
 
-
 const decodeBoardingPass = (boardingPass) => {
     let rangeRows = [0, 127]
     let rangeCols = [0, 7]
