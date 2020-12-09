@@ -12,10 +12,9 @@ data.forEach((e, index) => {
     }
 })
 
-
 const executeCommand = (commands, accvalue, index) => {
     if (index === commands.length) return [true, accvalue]
-    if (index > commands.length) return [false, accvalue]
+    if (index > commands.length || commands.length < 0) return [false, accvalue]
     if (commands[index].vis) return [false, accvalue]
     commands[index].vis = true
     switch (commands[index].com) {
