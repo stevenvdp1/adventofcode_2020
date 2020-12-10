@@ -1,12 +1,13 @@
 # Advent Of Code 2020
 
-* Day1: :star: :star:
-* Day2: :star: :star:
-* Day3: :star: :star:
-* Day4: :star: :star:
-* Day5: :star: :star:
-* Day6: :star: :star:
-* Day7: :star: :star:
-* Day8: :star: :star:
-* Day9: :star: :star:
+* Day01: :star: :star:
+* Day02: :star: :star:
+* Day03: :star: :star:
+* Day04: :star: :star:
+* Day05: :star: :star:
+* Day06: :star: :star:
+* Day07: :star: :star:
+* Day08: :star: :star:
+* Day09: :star: :star:
+* Day10: :star: :star:
   
