@@ -1,5 +1,4 @@
 const fs = require('fs')
-const { slice } = require('lodash')
 let data = fs.readFileSync('./day10/input.txt').toString().split('\r\n')
 data.forEach((d, index) => {
     data[index] = parseInt(d)
