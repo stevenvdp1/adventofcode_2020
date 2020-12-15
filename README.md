@@ -1,6 +1,5 @@
 # Advent Of Code 2020
 
-|----------------------------------------|----------------------------------------|
 |[Day01](../day01/index.js) :star: :star:|[Day13](../day13/index.js) :star: :star:|
 |[Day02](../day02/index.js) :star: :star:|[Day14](../day14/index.js) :star: :star:|
 |[Day03](../day03/index.js) :star: :star:|[Day15](../day15/index.js) :star: :star:|
