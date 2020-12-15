@@ -1,8 +1,5 @@
-const { timeStamp } = require('console')
 const fs = require('fs')
-const { find } = require('lodash')
 const _ = require('lodash')
-const { start } = require('repl')
 const data = fs.readFileSync('./day13/input.txt').toString().split('\r\n')
 
 const arrivingTime = data[0]
