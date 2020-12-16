@@ -1,5 +1,4 @@
 const fs = require('fs')
-const { last } = require('lodash')
 
 let data = fs.readFileSync('./day15/input.txt').toString().split(',')
 let numbers = new Map()

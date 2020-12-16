@@ -15,3 +15,4 @@
 * [Day13](./day13/index.js) :star: :star:
 * [Day14](./day14/index.js) :star: :star:
 * [Day15](./day15/index.js) :star: :star:
+* [Day16](./day16/index.js) :star: :star:
